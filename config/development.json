@@ -1,0 +1,6 @@
+{
+    "port": 3001,
+    "hostAddress": "http://localhost:3001/",
+    "dbUrl": "mongodb://localhost:27017/sample"
+}
+    
